@@ -16,14 +16,13 @@
         $answer = $num1 * $num2 * $num3;
         return $answer;
     }
-    multiply(2,4)
-    
+    multiply(2,4)   
 ?>
 
 <br>
 <?php
     include 'index2.php';
-
+//Index2 is the file that connects to mySQL
 ?>
 </body>
 </html>
